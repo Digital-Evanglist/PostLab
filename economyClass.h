@@ -1,0 +1,1 @@
+int economyFunction(_Bool[], int);
