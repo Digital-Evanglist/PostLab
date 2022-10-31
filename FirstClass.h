@@ -1,0 +1,1 @@
+int firstClassFun(_Bool[], int);
